@@ -3,7 +3,6 @@ This is an extensive React project that maximizes the frontend capabilities of o
 One of the most important learning aspects of this project was to call for API data from GitHub and how to display information up on screen. It was an intensive 4-week project on React, and I learned so much about how React is used on frontend. 
 
 Built with
-- React
 - React Router
 - React Hooks
 - APIs
