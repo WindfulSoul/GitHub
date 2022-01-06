@@ -5,6 +5,7 @@ One of the most important learning aspects of this project was to call for API d
 Built with
 - React Router
 - React Hooks
+- React Reducer
 - APIs
 - React Components
 - Material UI
